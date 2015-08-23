@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87A5839B-F082-44A9-A9A8-688733A4E000</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleAuth</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37B969794E464F2BA90BDD06CF0A93F9D42694A5</key>
+		<string>https://github.com/mohitmax/SampleAuth.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleAuth.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37B969794E464F2BA90BDD06CF0A93F9D42694A5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mohitmax/SampleAuth.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37B969794E464F2BA90BDD06CF0A93F9D42694A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37B969794E464F2BA90BDD06CF0A93F9D42694A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SampleAuth</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)authenticationButtonTapped:(id)sender;
 
 @end
 
